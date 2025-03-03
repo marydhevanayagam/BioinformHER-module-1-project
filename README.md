@@ -48,6 +48,6 @@ This project aims to analyze the sequence of the human TNF (Tumor Necrosis Facto
 
 ### **Task 8: Convert the TNF gene sequence from FASTA file format to PHYLIP format** 
 * Open the TNF gene sequence in BioEdit 
-* Use the 'Save As...' feature to convert the file to PHYLIP format.
+* Use the 'Save As...' feature to convert the file to PHYLIP format (*.phy).
 * Verify the conversion by opening the PHYLIP file in a text editor.
 
